@@ -229,12 +229,6 @@ This project follows the Contributor Covenant Code of Conduct. By participating 
 
 ---
 
-## License
-
-MIT License. See LICENSE.md for details.
-
----
-
 ## Acknowledgements
 
 - Thank you to all contributors and users
@@ -246,5 +240,3 @@ MIT License. See LICENSE.md for details.
 
 - Repository: https://github.com/ajeyak3698/Expenza
 - Issues: https://github.com/ajeyak3698/Expenza/issues
-
-If you'd like the README tailored to the exact tech choices in this repository (frameworks, package names, available scripts, CI), tell me which stack the project uses or allow me to inspect the repository to produce a precise README and I will update it accordingly.
